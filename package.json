@@ -43,6 +43,7 @@
     "serialize-javascript": "^7.0.5",
     "postcss": "^8.4.31",
     "webpack-dev-server": "^5.2.3",
-    "@tootallnate/once": "^3.0.1"
+    "@tootallnate/once": "^3.0.1",
+    "follow-redirects": "^1.16.0"
   }
 }
